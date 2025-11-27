@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # User Authentication Project
 
 ## Pages Created
@@ -9,3 +10,6 @@
 1. **Clone the repository:**  
 ```bash
 git clone https://github.com/SahanaGA/UserAuthProject.git
+=======
+# UserAuthProject
+>>>>>>> b1bc596f2431c184d8e29caf2176e299f916602c
